@@ -1,4 +1,4 @@
-int function add(){
+int function add(nt comit){
 return 0;
 
 
