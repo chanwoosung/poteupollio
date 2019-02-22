@@ -1,8 +1,0 @@
-
-int function add(int comit,double dnum){
-return 0;
-}
-nt function mul(){
-return 0;
-}
-
